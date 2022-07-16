@@ -2,6 +2,7 @@
      padding: 0;
     margin: 0;
 }
+
    .gradient{
     display: flex;
     align-items: center;
@@ -38,6 +39,7 @@ div{
     border-width: 5px;
     border-radius: 30px;
     position: absolute;
+   
     
 }
 input{
